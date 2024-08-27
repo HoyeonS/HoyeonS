@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @HoyeonS
-- 👀 I’m interested in Software Engineering and other creative activities
-- 🌱 I’m currently learning computer science in UW-madison
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -> hoyeonsohn@icloud.com
+Recent Graduate on Bachelor of Science in Computer Science @ University of Wisconsin - Madison
+
+Software Development Engineer | Mobile Developer | Back-End Developer
+
+Interested in changing the world with my talents!
+
+Happy to connect! --> hoyeonsohn@icloud.com
+
 
 <!---
 HoyeonS/HoyeonS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
